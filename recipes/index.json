@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "brown-butter-chocolate-chip-cookies",
+    "title": "Brown Butter Chocolate Chip Cookies",
+    "description": "Chewy chocolate chip cookies with crisp edges and a nutty, toffee-like flavor from browned butter. The dough rests before baking for a deeper caramel taste.",
+    "tags": [
+      "dessert",
+      "baking",
+      "cookies",
+      "chocolate"
+    ],
+    "times": {
+      "total": 75
+    },
+    "servings": {
+      "amount": 24,
+      "unit": "cookies"
+    },
+    "added": "2026-11-20",
+    "ingredients": [
+      "all-purpose flour",
+      "baking soda",
+      "kosher salt",
+      "unsalted butter",
+      "light or dark brown sugar",
+      "granulated sugar",
+      "large eggs",
+      "vanilla extract",
+      "semisweet chocolate chips",
+      "flaky salt"
+    ]
+  }
+]

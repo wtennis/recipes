@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>Recipes</title>
+  <meta name="description" content="A small collection of recipes with scaling and gram weights.">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&display=swap">
+  <link rel="stylesheet" href="css/style.css?v=1">
+</head>
+<body>
+  <main class="page">
+    <header class="site-header">
+      <h1>Recipes</h1>
+      <p class="tagline">Scale them, weigh them, cook them.</p>
+    </header>
+
+    <div class="controls">
+      <label class="visually-hidden" for="search">Search recipes</label>
+      <input id="search" class="search" type="search" placeholder="Search recipes, tags, ingredients" autocomplete="off">
+      <div id="tag-chips" class="chips" role="group" aria-label="Filter by tag"></div>
+    </div>
+
+    <p id="status" class="status" role="status" aria-live="polite"></p>
+    <ul id="cards" class="cards"></ul>
+
+    <footer class="site-footer">Recipes · built with Claude 🦉</footer>
+  </main>
+  <script src="js/common.js?v=1"></script>
+  <script src="js/index.js?v=1"></script>
+</body>
+</html>
