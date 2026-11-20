@@ -1,0 +1,45 @@
+{
+  "slug": "homemade-biscuits",
+  "title": "Homemade Biscuits",
+  "description": "Buttery, soft biscuits made completely from scratch, with all butter and no shortening.",
+  "source": { "type": "url", "url": "https://sugarspunrun.com/easy-homemade-biscuits/", "name": "Sugar Spun Run" },
+  "added": "2026-11-20",
+  "tags": ["baking", "breakfast", "bread"],
+  "servings": { "amount": 6, "unit": "biscuits" },
+  "times": { "prep": 15, "cook": 12, "total": 27 },
+  "equipment": ["box grater", "biscuit cutter", "mixing bowls", "parchment paper"],
+  "ingredient_groups": [
+    {
+      "items": [
+        { "qty": 2, "unit": "cup", "grams": 250, "item": "all-purpose flour" },
+        { "qty": 1, "unit": "tbsp", "grams": 12, "item": "baking powder" },
+        { "qty": 1, "unit": "tbsp", "grams": 13, "item": "granulated sugar" },
+        { "qty": 1, "unit": "tsp", "grams": 6, "item": "salt" },
+        { "qty": 6, "unit": "tbsp", "grams": 85, "item": "unsalted butter", "note": "very cold; unsalted European butter is ideal but not required" },
+        { "qty": 0.75, "unit": "cup", "grams": 177, "item": "whole milk", "note": "buttermilk or 2% milk also work" },
+        { "qty": null, "unit": null, "grams": null, "item": "melted salted butter", "note": "optional, for brushing" }
+      ]
+    }
+  ],
+  "step_groups": [
+    {
+      "steps": [
+        "For the flakiest biscuits, chill the butter in the freezer for 10 to 20 minutes before you start. It should be very cold.",
+        "Heat the oven to 425°F (220°C) and line a baking sheet with parchment paper.",
+        "In a large bowl, mix the flour, baking powder, sugar and salt well.",
+        "Take the butter out of the freezer and either cut it into the flour mixture with a pastry cutter or (preferred) shred it on a box grater and stir it in. Keep working it in until the mixture looks like coarse crumbs.",
+        "Add the milk and stir with a wooden spoon or spatula just until combined. Don't overwork the dough.",
+        "Turn the dough out onto a well-floured surface and gently bring it together with your hands, adding flour if it's too sticky.",
+        "Fold the dough in half over itself and gently press the layers together. Turn it 90 degrees and fold again. Repeat 5 to 6 times, taking care not to overwork it.",
+        "With your hands (not a rolling pin), flatten the dough to 1 inch (2.5 cm) thick. Lightly flour a 2¾-inch (7 cm) round cutter.",
+        "Cut biscuits close together, pressing the cutter straight down, and set them less than ½ inch (1 cm) apart on the baking sheet. Gently re-work the scraps to cut a biscuit or two more.",
+        "Bake for 12 minutes, or until the tops are just starting to turn light golden brown.",
+        "If you like, brush with melted salted butter as soon as they come out of the oven. Serve warm."
+      ]
+    }
+  ],
+  "notes": [
+    "This recipe can be doubled to make 12 biscuits.",
+    "Whole milk is the default, but buttermilk and 2% milk both work."
+  ]
+}

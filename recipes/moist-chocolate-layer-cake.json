@@ -1,0 +1,81 @@
+{
+  "slug": "moist-chocolate-layer-cake",
+  "title": "Deliciously Moist Chocolate Layer Cake",
+  "description": "A homemade chocolate cake with a super moist crumb and a fudgy yet light texture, topped with chocolate buttercream and chocolate chips for 3x the chocolate.",
+  "source": { "type": "url", "url": "https://sallysbakingaddiction.com/triple-chocolate-layer-cake/", "name": "Sally's Baking Addiction" },
+  "added": "2026-11-20",
+  "tags": ["dessert", "baking", "cake", "chocolate"],
+  "servings": { "amount": 12, "unit": "servings" },
+  "times": { "prep": 30, "cook": 25, "total": 240 },
+  "equipment": ["two 9-inch round cake pans", "parchment paper", "handheld or stand mixer", "whisk", "cooling rack", "large serrated knife", "icing spatula", "bench scraper", "cake stand or serving plate"],
+  "ingredient_groups": [
+    {
+      "name": "Cake",
+      "items": [
+        { "qty": 1.75, "unit": "cup", "grams": 219, "item": "all-purpose flour", "note": "spooned and leveled" },
+        { "qty": 0.75, "unit": "cup", "grams": 64, "item": "unsweetened natural cocoa powder", "note": "not Dutch-process" },
+        { "qty": 1.75, "unit": "cup", "grams": 350, "item": "granulated sugar" },
+        { "qty": 2, "unit": "tsp", "grams": 12, "item": "baking soda" },
+        { "qty": 1, "unit": "tsp", "grams": 4, "item": "baking powder" },
+        { "qty": 1, "unit": "tsp", "grams": 6, "item": "salt" },
+        { "qty": 2, "unit": "tsp", "grams": 2, "item": "espresso powder", "note": "optional" },
+        { "qty": 0.5, "unit": "cup", "grams": 113, "item": "vegetable oil", "note": "or canola oil or melted coconut oil" },
+        { "qty": 2, "unit": null, "grams": 100, "item": "large eggs", "note": "room temperature" },
+        { "qty": 2, "unit": "tsp", "grams": 8, "item": "pure vanilla extract" },
+        { "qty": 1, "unit": "cup", "grams": 240, "item": "buttermilk", "note": "room temperature" },
+        { "qty": 1, "unit": "cup", "grams": 240, "item": "strong coffee or water", "note": "freshly brewed and hot" }
+      ]
+    },
+    {
+      "name": "Chocolate buttercream",
+      "items": [
+        { "qty": 1.25, "unit": "cup", "grams": 282, "item": "unsalted butter", "note": "softened to room temperature" },
+        { "qty": 3.5, "unit": "cup", "grams": 420, "item": "confectioners' sugar" },
+        { "qty": 0.75, "unit": "cup", "grams": 64, "item": "unsweetened cocoa powder", "note": "natural or Dutch-process" },
+        { "qty": 3, "unit": "tbsp", "grams": 45, "item": "heavy cream", "note": "or half-and-half or milk, room temperature" },
+        { "qty": [1, 2], "unit": "tbsp", "grams": null, "item": "more heavy cream", "note": "only if the frosting is too thick" },
+        { "qty": 1, "unit": "tsp", "grams": 4, "item": "pure vanilla extract" },
+        { "qty": 0.25, "unit": "tsp", "grams": 1.5, "item": "salt" },
+        { "qty": null, "unit": null, "grams": null, "item": "semi-sweet chocolate chips", "note": "optional, for decoration" }
+      ]
+    }
+  ],
+  "step_groups": [
+    {
+      "name": "Cake",
+      "steps": [
+        "Heat the oven to 350°F (177°C). Grease two 9-inch (23 cm) cake pans, line them with parchment rounds, and grease the parchment so the cakes release cleanly.",
+        "Whisk the flour, cocoa, sugar, baking soda, baking powder, salt and espresso powder (if using) together in a large bowl. Set aside.",
+        "With a handheld or stand mixer fitted with the whisk (or by hand), mix the oil, eggs and vanilla on medium-high until combined. Add the buttermilk and mix until combined.",
+        "Pour the dry ingredients into the wet, add the hot coffee or water, and whisk or beat on low until completely combined. The batter will be thin.",
+        "Divide the batter evenly between the pans. Bake for 23 to 26 minutes, until a toothpick inserted in the center comes out clean. The cooled cakes may sink slightly in the center even when fully baked; that's normal for a moist cocoa cake.",
+        "Cool the cakes in their pans on a rack for 1 hour. Run a knife around the edges, turn them out, peel off the parchment and let them finish cooling on the rack."
+      ]
+    },
+    {
+      "name": "Buttercream",
+      "steps": [
+        "With a mixer fitted with the paddle, beat the butter on medium until creamy, about 2 minutes.",
+        "Add the confectioners' sugar, cocoa, the first portion of cream, vanilla and salt. Beat on low for 30 seconds, then on high for 1 full minute. Don't over-whip.",
+        "If the frosting is too thin, beat in a little more confectioners' sugar or cocoa (about ¼ cup at 1×); if too thick, add the extra cream. Taste, and add another pinch of salt if you like."
+      ]
+    },
+    {
+      "name": "Assemble",
+      "steps": [
+        "If the cooled cakes are domed, slice a thin layer off the tops with a large serrated knife to level them. Discard the scraps or crumble them over the finished cake.",
+        "Set one layer on a cake stand or plate and cover the top evenly with frosting. Add the second layer and spread the rest of the frosting over the top and sides. Garnish with chocolate chips, if using.",
+        "Refrigerate the uncovered cake for at least 30 to 60 minutes before slicing to set the shape. Serve then, or keep refrigerated for up to 4 to 6 hours. Serve at room temperature or chilled."
+      ]
+    }
+  ],
+  "notes": [
+    "Serves 12 to 16.",
+    "Make ahead: wrap the cooled cake layers tightly and refrigerate for up to 2 days or freeze for up to 3 months; bring to room temperature before frosting. The buttercream can be made 2 to 3 days ahead, refrigerated, and brought to room temperature before using.",
+    "3-layer cake: divide the batter between three 8-inch (20 cm) pans and bake for 22 to 25 minutes. The frosting covers 3 layers; make 1.5× the buttercream if you want extra.",
+    "Use natural cocoa in the cake, not Dutch-process. Either works in the buttercream, since it has no leavening.",
+    "Buttermilk is required. To make a substitute, put 2 teaspoons of white vinegar or lemon juice in a liquid measuring cup, add room-temperature whole milk to the 1-cup line, stir and let sit 5 minutes.",
+    "The cake can also be made as a sheet cake; the source has instructions."
+  ],
+  "storage": "Cover leftover cake tightly and refrigerate for up to 5 days. Frosted cake freezes well for up to 3 months; thaw overnight in the refrigerator, then serve cold or at room temperature."
+}

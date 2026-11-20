@@ -1,0 +1,42 @@
+{
+  "slug": "homemade-salted-caramel",
+  "title": "Homemade Salted Caramel",
+  "description": "Salty, sweet, irresistibly buttery caramel from just 4 ingredients. No candy thermometer required.",
+  "source": { "type": "url", "url": "https://sallysbakingaddiction.com/homemade-salted-caramel-recipe/", "name": "Sally's Baking Addiction" },
+  "added": "2026-11-20",
+  "tags": ["dessert", "sauce"],
+  "servings": { "amount": 1, "unit": "cup (290 g)", "unit_plural": "cups" },
+  "times": { "prep": 5, "cook": 15, "total": 20 },
+  "equipment": ["medium heavy-duty stainless steel saucepan (not nonstick)", "wooden spoon or heat-safe silicone spatula", "whisk", "candy thermometer (optional)"],
+  "ingredient_groups": [
+    {
+      "items": [
+        { "qty": 1, "unit": "cup", "grams": 200, "item": "granulated sugar", "note": "labeled \"pure cane\"" },
+        { "qty": 6, "unit": "tbsp", "grams": 85, "item": "unsalted butter", "note": "room temperature, cut into 6 pieces" },
+        { "qty": 0.5, "unit": "cup", "grams": 120, "item": "heavy cream", "note": "room temperature" },
+        { "qty": 1, "unit": "tsp", "grams": 6, "item": "salt" }
+      ]
+    }
+  ],
+  "step_groups": [
+    {
+      "steps": [
+        "In a medium heavy-duty stainless steel saucepan (not nonstick) over medium heat, cook the sugar, stirring constantly with a wooden spoon or heat-safe spatula. It will clump, then melt into a thick, amber-brown liquid, about 6 minutes. Keep stirring, especially around the bottom edges, so it doesn't burn.",
+        "Once the sugar is fully melted, turn the heat to low and stir in the butter. The caramel will bubble rapidly, so be careful (wear kitchen gloves if you're worried about splatter). Stir constantly until the butter is melted and combined.",
+        "If the butter separates or the sugar clumps, take the pan off the heat and whisk vigorously until it comes back together, even if it takes 3 to 4 minutes. Return it to the heat once combined.",
+        "Very slowly pour in the cream, stirring constantly; it will bubble and steam hard. Once it's all in, stop stirring, raise the heat to medium and let it boil for 1 minute. It will rise in the pan. (With a candy thermometer, it should reach 220°F (104°C).)",
+        "Take the pan off the heat and stir in the salt. The caramel will be thin at this point; let it cool slightly before using. It thickens a lot as it cools."
+      ]
+    }
+  ],
+  "notes": [
+    "Use caution: cooking caramel can splatter. Stand back, and wear kitchen gloves if you like. Read these notes before you start.",
+    "Don't double or triple this recipe; the extra volume can keep the sugar from melting evenly. Make separate batches instead.",
+    "Sugar: it works best with granulated sugar labeled \"pure cane\".",
+    "Cream: heavy cream (about 36% fat) may be sold as whipping cream. Light whipping cream (30%) or double cream (48%) also work. Don't use half-and-half or milk.",
+    "Salt: table or kosher salt both work. With flaky salt, add the amount listed, taste, and add more if you want. You can also start with three-quarters of it and adjust to taste.",
+    "For regular (not salted) caramel, cut the salt in half, but don't leave it out.",
+    "This is a sauce, topping or filling. It won't set up properly as soft caramel candies."
+  ],
+  "storage": "Cover tightly and refrigerate for up to 1 month; it solidifies when cold, so rewarm in the microwave or on the stove. It's fine at room temperature for a day. Freeze in an airtight container for up to 3 months, then thaw in the fridge or at room temperature and warm before using."
+}

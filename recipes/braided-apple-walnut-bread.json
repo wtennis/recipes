@@ -1,0 +1,69 @@
+{
+  "slug": "braided-apple-walnut-bread",
+  "title": "Braided Apple Walnut Bread",
+  "description": "Apple, walnuts and cinnamon coconut sugar twisted into a honey-sweetened spelt bread wreath. Free of eggs and refined sugar.",
+  "source": { "type": "url", "url": "https://www.wifemamafoodie.com/braided-apple-walnut-bread/", "name": "Wife Mama Foodie (Joscelyn Abreu)" },
+  "added": "2026-11-20",
+  "tags": ["baking", "bread", "breakfast", "dessert"],
+  "servings": { "amount": 8, "unit": "servings" },
+  "times": { "cook": 30, "total": 76 },
+  "equipment": ["stand mixer with dough hook (optional)", "parchment paper", "baking sheet", "rolling pin"],
+  "ingredient_groups": [
+    {
+      "name": "Dough",
+      "items": [
+        { "qty": 1, "unit": "cup", "grams": 240, "item": "almond milk or other milk", "note": "warm" },
+        { "qty": 3, "unit": "tbsp", "grams": 42, "item": "butter or vegan butter" },
+        { "qty": 3, "unit": "tbsp", "grams": 63, "item": "honey, coconut nectar, or sugar" },
+        { "qty": 0.75, "unit": "tsp", "grams": 4.5, "item": "salt" },
+        { "qty": 2.25, "unit": "tsp", "grams": 7, "item": "instant or rapid-rise yeast", "note": "1 package" },
+        { "qty": 1.5, "unit": "cup", "grams": 188, "item": "all-purpose flour", "note": "for the first mix" },
+        { "qty": [1, 2], "unit": "cup", "grams": 120, "item": "spelt or all-purpose flour", "note": "added as needed; grams are for 1 cup of spelt. The source uses half spelt and half all-purpose overall" }
+      ]
+    },
+    {
+      "name": "Filling",
+      "items": [
+        { "qty": 0.333, "unit": "cup", "grams": 53, "item": "coconut sugar", "note": "or brown sugar" },
+        { "qty": 1, "unit": "tsp", "grams": 3, "item": "cinnamon" },
+        { "qty": 1, "unit": null, "grams": 200, "item": "large apple", "note": "peeled, cored and chopped small (gala, fuji or granny smith)" },
+        { "qty": [0.25, 0.333], "unit": "cup", "grams": 30, "item": "chopped walnuts or other nuts", "note": "optional" },
+        { "qty": 3, "unit": "tbsp", "grams": 42, "item": "butter", "note": "softened" },
+        { "qty": null, "unit": null, "grams": null, "item": "powdered sugar", "note": "optional, for sprinkling" }
+      ]
+    }
+  ],
+  "step_groups": [
+    {
+      "name": "Dough",
+      "steps": [
+        "Warm the milk, butter, sweetener and salt in a small saucepan (or the microwave) on low, just until the butter melts. Let cool until warm to the touch.",
+        "In a large bowl, combine the first-mix flour and the yeast. When the milk is warm, 120 to 130°F (49 to 54°C), pour it in slowly and stir until smooth and well blended, about 1 minute.",
+        "Switch to a dough hook (or a wooden spoon) and add more flour a little at a time until the dough is soft and pulls away from the sides of the bowl. You may not need all of it.",
+        "Knead until smooth, elastic, and soft but not sticky, about 4 to 5 minutes. Cover and let rest for 10 minutes."
+      ]
+    },
+    {
+      "name": "Fill and shape",
+      "steps": [
+        "Meanwhile, mix the coconut sugar and cinnamon in a small bowl.",
+        "Roll the dough into a large rough rectangle on a lightly floured surface, or on a large sheet of parchment so you can slide it onto a baking sheet later. Spread the softened butter over it and sprinkle evenly with the cinnamon sugar, then the apple and nuts.",
+        "Starting from a long edge, roll the dough up tightly like cinnamon rolls. Slice the roll in half lengthwise, leaving 2 to 3 inches (5 to 8 cm) intact at the top to hold it together.",
+        "Turn the halves so the filling faces up. Overlap one over the other repeatedly to make a twist, and pinch the ends to seal.",
+        "Bring the ends together into a wreath and tuck one end under the other."
+      ]
+    },
+    {
+      "name": "Rise and bake",
+      "steps": [
+        "Heat the oven to 350°F (175°C). Slide the parchment with the wreath onto a baking sheet, or lift the wreath onto a parchment-lined or lightly greased sheet.",
+        "Cover with a clean towel or plastic wrap and let rise in a warm place for 25 to 30 minutes, until almost doubled.",
+        "Bake on the middle rack for 20 to 30 minutes, until golden brown. Let cool, then sprinkle with powdered sugar if you like."
+      ]
+    }
+  ],
+  "notes": [
+    "Serves 8 to 10."
+  ],
+  "storage": "Best eaten the same day. Reheat leftover slices in the microwave for 20 to 45 seconds, or wrapped in foil in a 350°F (175°C) oven for 10 to 15 minutes."
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "szechuan-eggplant",
+  "title": "Chinese Eggplant with Spicy Szechuan Sauce",
+  "description": "Chinese eggplant in a Szechuan sauce with chilies and peanuts: a tasty, easy vegan dinner.",
+  "source": { "type": "url", "url": "https://www.feastingathome.com/chinese-eggplant/", "name": "Feasting at Home (Sylvia Fountaine)" },
+  "added": "2026-11-20",
+  "tags": ["dinner", "vegan", "vegetarian", "chinese"],
+  "servings": { "amount": 4, "unit": "servings" },
+  "times": { "prep": 20, "cook": 25, "total": 45 },
+  "equipment": ["extra-large skillet", "tongs"],
+  "ingredient_groups": [
+    {
+      "name": "Eggplant",
+      "items": [
+        { "qty": 1.5, "unit": "lb", "grams": 680, "item": "Japanese eggplant", "note": "about 4 eggplants, 10 inches long" },
+        { "qty": 2, "unit": "tsp", "grams": 12, "item": "salt", "note": "for the soaking water" },
+        { "qty": null, "unit": null, "grams": null, "item": "water", "note": "a big bowl, for soaking" },
+        { "qty": 2, "unit": "tbsp", "grams": 16, "item": "cornstarch" },
+        { "qty": [2, 4], "unit": "tbsp", "grams": 27, "item": "peanut oil or wok oil", "note": "grams are for 2 tablespoons" }
+      ]
+    },
+    {
+      "name": "Aromatics",
+      "items": [
+        { "qty": 4, "unit": "clove", "grams": null, "item": "garlic", "note": "roughly chopped" },
+        { "qty": 2, "unit": "tsp", "grams": 6, "item": "ginger", "note": "finely minced" },
+        { "qty": [5, 10], "unit": "piece", "grams": null, "item": "dried red chilies" }
+      ]
+    },
+    {
+      "name": "Szechuan sauce",
+      "items": [
+        { "qty": 1, "unit": "tsp", "grams": 2, "item": "Szechuan peppercorns", "note": "or regular peppercorns" },
+        { "qty": 0.25, "unit": "cup", "grams": 64, "item": "soy sauce or low-sodium soy sauce" },
+        { "qty": 1, "unit": "tbsp", "grams": 18, "item": "garlic chili paste", "note": "or 1 teaspoon chili flakes" },
+        { "qty": 1, "unit": "tbsp", "grams": 14, "item": "sesame oil" },
+        { "qty": 1, "unit": "tbsp", "grams": 15, "item": "rice vinegar" },
+        { "qty": 1, "unit": "tbsp", "grams": 15, "item": "Chinese cooking wine", "note": "or mirin" },
+        { "qty": 3, "unit": "tbsp", "grams": 38, "item": "sugar", "note": "or brown sugar, coconut sugar, maple syrup or an alternative" },
+        { "qty": 0.5, "unit": "tsp", "grams": 1, "item": "five spice" }
+      ]
+    },
+    {
+      "name": "To serve",
+      "items": [
+        { "qty": null, "unit": null, "grams": null, "item": "scallions" },
+        { "qty": null, "unit": null, "grams": null, "item": "peanuts", "note": "optional; cashews also work" },
+        { "qty": null, "unit": null, "grams": null, "item": "rice, black rice, cauliflower rice, quinoa or rice noodles" }
+      ]
+    }
+  ],
+  "step_groups": [
+    {
+      "name": "Prep",
+      "steps": [
+        "Cut the eggplant into ½-inch (1 cm) half-moons or bite-sized pieces. Put them in a big bowl of water, stir in the salt, cover with a plate and let stand 20 to 30 minutes.",
+        "Meanwhile, chop the garlic and ginger and make the sauce: toast the Szechuan peppercorns in a dry skillet over medium heat for 1 to 2 minutes, then crush them. Whisk them in a small bowl with the soy sauce, chili paste, sesame oil, rice vinegar, cooking wine, sugar and five spice. Set it by the stove.",
+        "Drain, rinse and pat the eggplant dry with a towel, then toss it with the cornstarch."
+      ]
+    },
+    {
+      "name": "Cook",
+      "steps": [
+        "Heat some of the oil in an extra-large skillet over medium heat. Add half the eggplant in a spread-out layer and cook until golden on both sides and cooked through, turning with tongs once the first side browns, about 10 minutes per batch. Don't rush this. Set aside and repeat with the rest (or use 2 pans).",
+        "Add a little more oil to the skillet and cook the garlic and ginger over medium heat, stirring, for 2 minutes. Turn on the fan, add the dried chilies and stir for 1 minute.",
+        "Pour in the sauce and simmer for 20 seconds. Return the eggplant to the pan and toss gently for about 30 seconds. Don't over-reduce it or it will get salty; if it seems dry, loosen it with a little water.",
+        "Transfer to a serving dish and top with scallions and peanuts, if using. Serve with rice, cauliflower rice, black rice or rice noodles."
+      ]
+    }
+  ],
+  "notes": [
+    "Be patient browning the eggplant; it takes time but pays off. A flat skillet makes it easier to get the sides golden than a wok.",
+    "Swap cashews for the peanuts, or leave them off."
+  ]
+}

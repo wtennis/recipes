@@ -1,0 +1,62 @@
+{
+  "slug": "my-favorite-challah",
+  "title": "My Favorite Challah",
+  "description": "Joan Nathan's braided challah, shaped from six strands into a straight or round loaf.",
+  "source": { "type": "url", "url": "https://cooking.nytimes.com/recipes/6697-my-favorite-challah", "name": "NYT Cooking (Joan Nathan)" },
+  "added": "2026-11-20",
+  "tags": ["baking", "bread"],
+  "servings": { "amount": 2, "unit": "challah", "unit_plural": "challahs" },
+  "times": { "cook": 40, "total": 190 },
+  "equipment": ["stand mixer with dough hook (optional)", "cookie sheet", "pastry brush", "wire rack"],
+  "ingredient_groups": [
+    {
+      "name": "Dough",
+      "items": [
+        { "qty": 1.5, "unit": "tbsp", "grams": 14, "item": "active dry yeast", "note": "1½ packages" },
+        { "qty": 1.75, "unit": "cup", "grams": 413, "item": "lukewarm water" },
+        { "qty": 1, "unit": "tbsp", "grams": 13, "item": "sugar", "note": "for the yeast" },
+        { "qty": 0.5, "unit": "cup", "grams": 100, "item": "sugar", "note": "the remaining sugar" },
+        { "qty": 0.5, "unit": "cup", "grams": 100, "item": "vegetable oil", "note": "plus more for the bowl" },
+        { "qty": 4, "unit": null, "grams": 200, "item": "large eggs" },
+        { "qty": 1, "unit": "tbsp", "grams": 18, "item": "salt" },
+        { "qty": [8, 8.5], "unit": "cup", "grams": 1000, "item": "all-purpose flour", "note": "grams are for 8 cups" }
+      ]
+    },
+    {
+      "name": "Topping",
+      "items": [
+        { "qty": 1, "unit": null, "grams": 50, "item": "large egg", "note": "beaten, for the wash" },
+        { "qty": null, "unit": null, "grams": null, "item": "poppy or sesame seeds", "note": "for sprinkling" }
+      ]
+    }
+  ],
+  "step_groups": [
+    {
+      "name": "Dough",
+      "steps": [
+        "In a large bowl, dissolve the yeast and the yeast sugar in the lukewarm water.",
+        "Whisk in the oil, then beat in the dough eggs one at a time along with the remaining sugar and the salt. Gradually add the flour. Once the dough holds together, it's ready to knead. (A mixer with a dough hook can do both the mixing and the kneading.)",
+        "Knead the dough on a floured surface until smooth. Clean and grease the bowl, return the dough to it, cover with plastic wrap, and let rise in a warm place for 1 hour, until almost doubled. (An oven warmed to 150°F (65°C) and then turned off works too.)",
+        "Punch the dough down, cover, and let it rise in a warm place for another 30 minutes."
+      ]
+    },
+    {
+      "name": "Braid",
+      "steps": [
+        "For a six-strand challah, straight or round, divide half the dough into 6 balls. Roll each into a strand about 12 inches (30 cm) long and 1½ inches (4 cm) wide. Lay them side by side and pinch the tops together.",
+        "Braid: move the outside right strand over 2 strands. Move the second strand from the left to the far right. Move the outside left strand over 2. Move the second strand from the right to the far left. Start again with the new outside right strand and repeat until the strands are braided.",
+        "For a straight loaf, tuck the ends under. For a round loaf, twist the braid into a circle and pinch the ends together.",
+        "Shape a second loaf from the rest of the dough the same way. Set both on a greased cookie sheet at least 2 inches (5 cm) apart.",
+        "Brush the loaves with the beaten egg. Either freeze them, or let them rise for another hour in the refrigerator."
+      ]
+    },
+    {
+      "name": "Bake",
+      "steps": [
+        "Heat the oven to 375°F (190°C) and brush the loaves with egg again. (If frozen, take them out of the freezer 5 hours before baking.)",
+        "Dip your index finger in the egg wash, then in the seeds, and dab it onto the bread. Repeat until the loaves are decorated.",
+        "Bake in the middle of the oven for 35 to 40 minutes, until golden. Cool on a rack."
+      ]
+    }
+  ]
+}

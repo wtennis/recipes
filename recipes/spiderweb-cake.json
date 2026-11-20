@@ -1,0 +1,64 @@
+{
+  "slug": "spiderweb-cake",
+  "title": "Spiderweb Cake",
+  "description": "Nothing is going to come between us and chocolate cake. Not even spiders.",
+  "source": { "type": "url", "url": "https://www.delish.com/holiday-recipes/halloween/recipes/a49352/spiderweb-cake-recipe/", "name": "Delish (Lindsay Funston)" },
+  "added": "2026-11-20",
+  "tags": ["dessert", "baking", "cake", "chocolate", "halloween"],
+  "servings": { "amount": 6, "unit": "servings" },
+  "times": { "prep": 25, "total": 55 },
+  "equipment": ["two 9-inch cake pans", "hand mixer", "small saucepan", "heatproof bowl", "toothpick"],
+  "ingredient_groups": [
+    {
+      "name": "Cake",
+      "items": [
+        { "qty": 1, "unit": null, "grams": null, "item": "box chocolate cake mix", "note": "plus the ingredients the box calls for" }
+      ]
+    },
+    {
+      "name": "Frosting",
+      "items": [
+        { "qty": 0.5, "unit": "cup", "grams": 113, "item": "unsalted butter", "note": "softened" },
+        { "qty": 1, "unit": "cup", "grams": 120, "item": "confectioners' sugar" },
+        { "qty": 7.5, "unit": "oz", "grams": 213, "item": "marshmallow crème", "note": "one jar" },
+        { "qty": 1, "unit": "tsp", "grams": 4, "item": "vanilla extract" },
+        { "qty": 1, "unit": "pinch", "grams": null, "item": "kosher salt" }
+      ]
+    },
+    {
+      "name": "Ganache and web",
+      "items": [
+        { "qty": 0.75, "unit": "cup", "grams": 179, "item": "heavy cream" },
+        { "qty": 1.5, "unit": "cup", "grams": 255, "item": "semisweet chocolate chips" },
+        { "qty": 1, "unit": null, "grams": null, "item": "tube store-bought vanilla icing" }
+      ]
+    }
+  ],
+  "step_groups": [
+    {
+      "name": "Cake",
+      "steps": [
+        "Butter and flour two 9-inch (23 cm) cake pans. Make the cake batter following the package instructions.",
+        "Bake following the package instructions and let the cakes cool.",
+        "Once cool, set the first cake on a platter."
+      ]
+    },
+    {
+      "name": "Frosting",
+      "steps": [
+        "In a large bowl, beat the butter, confectioners' sugar, marshmallow crème, vanilla and salt with a hand mixer until fluffy and combined.",
+        "Top with the second cake."
+      ]
+    },
+    {
+      "name": "Ganache and web",
+      "steps": [
+        "Heat the cream in a small saucepan just until it bubbles. Put the chocolate chips in a heatproof bowl and pour the hot cream over them. Let stand 2 minutes, then whisk until the chocolate is completely combined.",
+        "Pour the ganache over the cake. Pipe a spiral of icing on top of the ganache and drag a toothpick through it to draw cobwebs."
+      ]
+    }
+  ],
+  "notes": [
+    "Serves 6 to 8."
+  ]
+}

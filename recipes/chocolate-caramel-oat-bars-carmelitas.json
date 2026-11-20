@@ -1,0 +1,51 @@
+{
+  "slug": "chocolate-caramel-oat-bars-carmelitas",
+  "title": "Chocolate Caramel Oat Bars (Carmelitas)",
+  "description": "Gooey, decadent bars with layers of caramel, chocolate and chewy oats.",
+  "source": { "type": "url", "url": "https://tasty.co/recipe/chocolate-caramel-oat-bars-carmelitas", "name": "Tasty (Claire Nolan)" },
+  "added": "2026-11-20",
+  "tags": ["dessert", "baking", "bars", "chocolate"],
+  "servings": { "amount": 20, "unit": "bars" },
+  "times": { "cook": 25, "total": 25 },
+  "equipment": ["9x13-inch baking pan", "parchment paper", "small saucepan"],
+  "ingredient_groups": [
+    {
+      "name": "Oat layers",
+      "items": [
+        { "qty": null, "unit": null, "grams": null, "item": "nonstick cooking spray", "note": "for greasing" },
+        { "qty": 2, "unit": "cup", "grams": 160, "item": "quick oats" },
+        { "qty": 1.75, "unit": "cup", "grams": 219, "item": "all-purpose flour" },
+        { "qty": 1.5, "unit": "cup", "grams": 320, "item": "brown sugar" },
+        { "qty": 1, "unit": "tsp", "grams": 6, "item": "baking soda" },
+        { "qty": 0.25, "unit": "tsp", "grams": 1.5, "item": "salt" },
+        { "qty": 1, "unit": "cup", "grams": 227, "item": "unsalted butter", "note": "melted" }
+      ]
+    },
+    {
+      "name": "Filling",
+      "items": [
+        { "qty": 2, "unit": "cup", "grams": 350, "item": "semisweet chocolate chips", "note": "for the middle layer" },
+        { "qty": 50, "unit": "piece", "grams": null, "item": "soft caramel candies", "note": "unwrapped" },
+        { "qty": 0.5, "unit": "cup", "grams": 119, "item": "heavy cream" },
+        { "qty": 0.5, "unit": "cup", "grams": 88, "item": "semisweet chocolate chips", "note": "for the top" }
+      ]
+    }
+  ],
+  "step_groups": [
+    {
+      "steps": [
+        "Heat the oven to 350°F (175°C). Line a 9x13-inch (22 x 33 cm) baking pan with parchment paper and coat it lightly with nonstick spray.",
+        "In a large bowl, mix the oats, flour, brown sugar, baking soda, salt and melted butter until well combined and crumbly.",
+        "Press about half the oat mixture into the pan in a compact, even layer with the back of a spoon or spatula. Save the rest.",
+        "Spread the middle-layer chocolate chips evenly over the oat layer.",
+        "In a small saucepan over medium-low heat, melt the caramels with the cream until smooth.",
+        "Pour the caramel over the chocolate chips and spread it until the chips are covered.",
+        "Scatter the remaining oat mixture evenly over the caramel, then sprinkle the topping chocolate chips over it.",
+        "Bake for 20 to 25 minutes, until the crust is golden brown (ovens vary). Let cool completely before cutting into bars."
+      ]
+    }
+  ],
+  "notes": [
+    "Total time doesn't include prep or cooling; the source doesn't give them."
+  ]
+}

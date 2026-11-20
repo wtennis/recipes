@@ -1,0 +1,39 @@
+{
+  "slug": "chef-johns-peanut-butter-cookies",
+  "title": "Chef John's Peanut Butter Cookies",
+  "description": "Moist, chewy peanut butter cookies full of sweet and salty flavor.",
+  "source": { "type": "url", "url": "https://www.allrecipes.com/recipe/220435/chef-johns-peanut-butter-cookies/", "name": "Allrecipes (Chef John)" },
+  "added": "2026-11-20",
+  "tags": ["dessert", "baking", "cookies"],
+  "servings": { "amount": 24, "unit": "cookies" },
+  "times": { "prep": 20, "cook": 10, "total": 150 },
+  "equipment": ["stand mixer", "silicone baking mat", "baking sheet", "wire rack"],
+  "ingredient_groups": [
+    {
+      "items": [
+        { "qty": 0.5, "unit": "cup", "grams": 113, "item": "unsalted butter" },
+        { "qty": 0.5, "unit": "cup", "grams": 100, "item": "white sugar" },
+        { "qty": 0.5, "unit": "cup", "grams": 107, "item": "brown sugar", "note": "packed" },
+        { "qty": 0.5, "unit": "cup", "grams": 128, "item": "creamy peanut butter" },
+        { "qty": 0.5, "unit": "tsp", "grams": 2, "item": "kosher salt" },
+        { "qty": 0.5, "unit": "tsp", "grams": 2, "item": "baking powder" },
+        { "qty": 0.5, "unit": "tsp", "grams": 3, "item": "baking soda" },
+        { "qty": 1, "unit": null, "grams": 50, "item": "egg" },
+        { "qty": 1.25, "unit": "cup", "grams": 156, "item": "all-purpose flour" }
+      ]
+    }
+  ],
+  "step_groups": [
+    {
+      "steps": [
+        "In a stand mixer, beat the butter, white sugar, brown sugar, peanut butter, salt, baking powder and baking soda until smooth. Scrape down the bowl and beater.",
+        "Add the egg and mix for about 1 minute.",
+        "With the mixer on low, slowly add the flour. Scrape down the bowl and beater, then keep mixing until the dough comes together, about 30 seconds.",
+        "Shape the dough into a ball, wrap it in plastic, and refrigerate for 2 to 3 hours.",
+        "Heat the oven to 375°F (190°C). Line a baking sheet with a silicone baking mat.",
+        "Portion the dough into equal-sized balls on the baking sheet. Roll them smooth with damp hands, then press each with a fork in a criss-cross pattern.",
+        "Bake until golden, about 10 minutes. Let the cookies sit on the sheet briefly, then move them to a wire rack to cool completely."
+      ]
+    }
+  ]
+}

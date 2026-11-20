@@ -1,0 +1,34 @@
+{
+  "slug": "dairy-free-coconut-macaroon-cookies",
+  "title": "Dairy-Free Coconut Macaroon Cookies",
+  "description": "Coconut macaroons made with just a few ingredients: dairy-free, lactose-free, gluten-free and wheat-free.",
+  "source": { "type": "url", "url": "https://www.thespruceeats.com/coconut-macaroons-recipe-1000805", "name": "The Spruce Eats (Ashley Adams)" },
+  "added": "2026-11-20",
+  "tags": ["dessert", "baking", "cookies", "dairy-free", "gluten-free"],
+  "servings": { "amount": 36, "unit": "cookies" },
+  "times": { "prep": 5, "cook": 15, "total": 20 },
+  "equipment": ["2 large baking sheets", "parchment paper", "wire cooling rack"],
+  "ingredient_groups": [
+    {
+      "items": [
+        { "qty": 5, "unit": "cup", "grams": 400, "item": "unsweetened coconut", "note": "finely shredded" },
+        { "qty": 1.5, "unit": "cup", "grams": 300, "item": "granulated sugar" },
+        { "qty": 1, "unit": "pinch", "grams": null, "item": "salt" },
+        { "qty": 4, "unit": null, "grams": 120, "item": "large egg whites", "note": "lightly beaten" },
+        { "qty": 1, "unit": "tsp", "grams": 4, "item": "pure vanilla extract", "note": "or almond extract" }
+      ]
+    }
+  ],
+  "step_groups": [
+    {
+      "steps": [
+        "Heat the oven to 350°F (175°C). Line 2 large baking sheets with parchment paper.",
+        "In a large bowl, mix the coconut, sugar and salt.",
+        "Add the egg whites and vanilla and mix until well combined.",
+        "With your hands, shape the mixture into small mounds of about 1½ to 2 tablespoons each, setting them on the baking sheets as you go.",
+        "Bake until just the peaks are light golden brown, about 12 to 15 minutes, turning the pans halfway through for even baking.",
+        "Cool completely on a wire rack. Serve at room temperature."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "lemon-poppy-seed-bundt-cake",
+  "title": "Lemon Poppy Seed Bundt Cake",
+  "description": "A moist, perfectly sweet, lemony homemade bundt cake topped with lemon glaze.",
+  "source": { "type": "url", "url": "https://www.livewellbakeoften.com/lemon-poppy-seed-bundt-cake/", "name": "Live Well Bake Often" },
+  "added": "2026-11-20",
+  "tags": ["dessert", "baking", "cake"],
+  "servings": { "amount": 10, "unit": "slices" },
+  "times": { "prep": 20, "cook": 50, "total": 70 },
+  "equipment": ["10-inch bundt pan", "stand mixer with paddle, or hand mixer", "wire rack", "foil"],
+  "ingredient_groups": [
+    {
+      "name": "Cake",
+      "items": [
+        { "qty": 2.75, "unit": "cup", "grams": 345, "item": "all-purpose flour" },
+        { "qty": 1, "unit": "tsp", "grams": 4, "item": "baking powder" },
+        { "qty": 0.5, "unit": "tsp", "grams": 3, "item": "baking soda" },
+        { "qty": 1, "unit": "tsp", "grams": 6, "item": "salt" },
+        { "qty": 3, "unit": "tbsp", "grams": 27, "item": "poppy seeds" },
+        { "qty": 0.75, "unit": "cup", "grams": 170, "item": "unsalted butter", "note": "softened" },
+        { "qty": 2, "unit": "cup", "grams": 400, "item": "granulated sugar" },
+        { "qty": 4, "unit": null, "grams": 200, "item": "large eggs", "note": "room temperature" },
+        { "qty": 2, "unit": "tsp", "grams": 8, "item": "vanilla extract" },
+        { "qty": 0.333, "unit": "cup", "grams": 80, "item": "fresh lemon juice" },
+        { "qty": 2, "unit": "tbsp", "grams": 12, "item": "lemon zest" },
+        { "qty": 0.25, "unit": "cup", "grams": 50, "item": "canola or vegetable oil" },
+        { "qty": 1, "unit": "cup", "grams": 240, "item": "sour cream" },
+        { "qty": null, "unit": null, "grams": null, "item": "nonstick cooking spray", "note": "for the pan" }
+      ]
+    },
+    {
+      "name": "Glaze",
+      "items": [
+        { "qty": 1, "unit": "cup", "grams": 120, "item": "confectioners' sugar" },
+        { "qty": [2, 3], "unit": "tbsp", "grams": 30, "item": "fresh lemon juice", "note": "or as needed to thin the glaze" }
+      ]
+    }
+  ],
+  "step_groups": [
+    {
+      "name": "Cake",
+      "steps": [
+        "Heat the oven to 350°F (180°C). In a large bowl, whisk the flour, baking powder, baking soda, salt and poppy seeds together. Set aside.",
+        "In a stand mixer with the paddle, or a large bowl with a hand mixer, beat the butter and sugar until light and fluffy.",
+        "Mix in the eggs one at a time, then the vanilla. Slowly mix in the lemon juice, lemon zest and oil.",
+        "Add the flour mixture and the sour cream alternately, starting and ending with the flour. Mix until just combined.",
+        "Spray a 10-inch (25 cm) bundt pan well with nonstick spray. Pour in the batter and spread it evenly.",
+        "Bake for 45 to 55 minutes, until a toothpick inserted into the cake comes out clean. If it's browning too much, cover it loosely with foil for the last 5 to 10 minutes.",
+        "Cool in the pan on a wire rack for 30 minutes, then turn the cake out onto the rack to finish cooling."
+      ]
+    },
+    {
+      "name": "Glaze",
+      "steps": [
+        "In a small bowl, mix the confectioners' sugar and lemon juice until fully combined.",
+        "Once the cake is cool, set a piece of foil under the rack to catch drips. Pour the glaze evenly over the cake and let it set for about 10 to 15 minutes before slicing."
+      ]
+    }
+  ],
+  "notes": [
+    "No bundt pan? Bake it in two 8x8-inch (20 x 20 cm) cake pans instead."
+  ],
+  "storage": "Store in an airtight container at room temperature for up to 5 days. The unglazed cake can be frozen for up to 3 months; thaw to room temperature before serving."
+}

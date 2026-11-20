@@ -1,0 +1,59 @@
+{
+  "slug": "gingersnaps",
+  "title": "Gingersnaps",
+  "description": "Barely adapted from Sweet Melissa Patisserie and Cook's Illustrated.",
+  "source": { "type": "url", "url": "https://smittenkitchen.com/2011/11/gingersnaps/", "name": "Smitten Kitchen (barely adapted from Sweet Melissa Patisserie and Cook's Illustrated)" },
+  "added": "2026-11-20",
+  "tags": ["dessert", "baking", "cookies", "holiday"],
+  "servings": { "amount": 48, "unit": "cookies (about)" },
+  "times": { "cook": 15, "total": 138 },
+  "equipment": ["baking sheets", "parchment paper", "plastic wrap", "cooling rack"],
+  "ingredient_groups": [
+    {
+      "name": "Dry ingredients",
+      "items": [
+        { "qty": 2.25, "unit": "cup", "grams": 281, "item": "all-purpose flour" },
+        { "qty": 2, "unit": "tsp", "grams": 10, "item": "baking soda" },
+        { "qty": 0.5, "unit": "tsp", "grams": 3, "item": "table salt" },
+        { "qty": 3, "unit": "tsp", "grams": 6, "item": "ground ginger" },
+        { "qty": 1, "unit": "tsp", "grams": 2, "item": "cinnamon" },
+        { "qty": 0.5, "unit": "tsp", "grams": 1, "item": "allspice" },
+        { "qty": 0.25, "unit": "tsp", "grams": 0.5, "item": "ground white pepper" }
+      ]
+    },
+    {
+      "name": "Wet ingredients",
+      "items": [
+        { "qty": 2, "unit": "stick", "grams": 227, "item": "unsalted butter", "note": "room temperature" },
+        { "qty": 0.5, "unit": "cup", "grams": 100, "item": "granulated sugar" },
+        { "qty": 0.5, "unit": "cup", "grams": 96, "item": "light brown sugar" },
+        { "qty": 1, "unit": null, "grams": 50, "item": "large egg" },
+        { "qty": 0.333, "unit": "cup", "grams": 112, "item": "unsulphured molasses" }
+      ]
+    },
+    {
+      "name": "Optional, for more ginger kick",
+      "items": [
+        { "qty": [1, 2], "unit": "tsp", "grams": null, "item": "fresh ginger", "note": "finely grated, added with the wet ingredients" },
+        { "qty": [1, 2], "unit": "tbsp", "grams": null, "item": "candied ginger", "note": "finely minced, added with the dry ingredients" }
+      ]
+    }
+  ],
+  "step_groups": [
+    {
+      "steps": [
+        "In a medium bowl, whisk the flour, baking soda, salt and spices together.",
+        "In a large bowl, beat the butter and both sugars on medium until fluffy, about 3 minutes. Beat in the egg and molasses until combined.",
+        "Add the dry ingredients and beat on low until just combined. Scrape down the bowl thoroughly so everything is evenly mixed.",
+        "Move the dough onto plastic wrap (it will be quite soft; a plate underneath helps support it). Chill in the fridge for at least 2 hours, until firm.",
+        "Heat the oven to 350°F (180°C). Roll the dough into 1-inch (2.5 cm) balls and set them at least 2 inches (5 cm) apart on greased or parchment-lined baking sheets.",
+        "Bake for 10 to 15 minutes: 10 to 12 for softer cookies, 13 to 15 for snappier ones.",
+        "Leave them on the sheets for 2 to 5 minutes, until firm enough to move to a cooling rack with a spatula. Cool completely before packing up."
+      ]
+    }
+  ],
+  "notes": [
+    "Unbaked dough balls keep in the freezer for up to 2 weeks; bake them as you need them."
+  ],
+  "storage": "Keep in an airtight container at room temperature for up to 1 week (they soften a bit each day), or freeze for up to 1 month."
+}

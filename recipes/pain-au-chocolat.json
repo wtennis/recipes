@@ -1,0 +1,82 @@
+{
+  "slug": "pain-au-chocolat",
+  "title": "Pain au Chocolat",
+  "description": "Soft, tender yeast bread wrapped around melting sticks of dark chocolate.",
+  "source": { "type": "url", "url": "https://www.kingarthurbaking.com/recipes/pain-au-chocolat-recipe", "name": "King Arthur Baking (Susan Reid)" },
+  "added": "2026-11-20",
+  "tags": ["baking", "breakfast", "pastry", "chocolate"],
+  "servings": { "amount": 16, "unit": "rolls" },
+  "times": { "prep": 60, "cook": 20, "total": 1218 },
+  "equipment": ["rolling pin", "bench knife", "waxed paper or plastic wrap", "baking sheet"],
+  "ingredient_groups": [
+    {
+      "name": "Dough",
+      "items": [
+        { "qty": 1.5, "unit": "cup", "grams": 340, "item": "water, milk or a combination" },
+        { "qty": 0.25, "unit": "cup", "grams": 50, "item": "granulated sugar" },
+        { "qty": 2, "unit": "cup", "grams": 240, "item": "all-purpose flour", "note": "for the first mix" },
+        { "qty": 2.5, "unit": "cup", "grams": 300, "item": "all-purpose flour", "note": "the remaining flour" },
+        { "qty": 2.5, "unit": "tsp", "grams": 8, "item": "instant yeast" },
+        { "qty": 2.5, "unit": "tsp", "grams": 15, "item": "table salt" },
+        { "qty": 4, "unit": "tbsp", "grams": 57, "item": "unsalted butter", "note": "softened" }
+      ]
+    },
+    {
+      "name": "Butter layer",
+      "items": [
+        { "qty": 3, "unit": "stick", "grams": 340, "item": "unsalted butter", "note": "cold (24 tablespoons)" }
+      ]
+    },
+    {
+      "name": "Filling and glaze",
+      "items": [
+        { "qty": [16, 32], "unit": "piece", "grams": null, "item": "pain au chocolat sticks", "note": "one or two per roll (85 to 170 g for the full batch)" },
+        { "qty": 1, "unit": null, "grams": 50, "item": "large egg", "note": "beaten with a pinch of salt" }
+      ]
+    }
+  ],
+  "step_groups": [
+    {
+      "name": "Make the dough",
+      "steps": [
+        "In a large bowl, stir together the water, sugar, the first-mix flour, yeast, salt and softened butter until fairly evenly blended.",
+        "Add the remaining flour and stir until the dough pulls away from the side of the bowl. Turn it out and knead just until it starts to smooth out. Don't over-knead; it has a long rise ahead.",
+        "Put the dough in a lightly greased bowl, cover, and let it rise for about an hour, until puffy. (You can also make the dough to this point in a bread machine of at least 1½-pound capacity on the dough or manual setting.)",
+        "Refrigerate the covered dough for 8 to 16 hours; overnight is best."
+      ]
+    },
+    {
+      "name": "Prepare the butter",
+      "steps": [
+        "Just before the dough comes out of the fridge, cut each stick of cold butter in half lengthwise and lay the six pieces on floured waxed paper or plastic wrap.",
+        "Flour the top of the butter, cover with another sheet, and gently pound it with a rolling pin until malleable. Roll it out to about 8 x 8 inches (20 x 20 cm)."
+      ]
+    },
+    {
+      "name": "Laminate",
+      "steps": [
+        "Roll the dough on a lightly floured surface into a 12-inch (30 cm) square. Set the butter in the center at a 45° angle, like a diamond in the square. Fold the four flaps of dough into the center to enclose the butter and pinch them together.",
+        "Roll the dough into a 10 x 20-inch (25 x 50 cm) rectangle. Fold one third into the center, then the opposite third over it, like a business letter (a letter fold).",
+        "Turn the dough 90° and roll it into a 10 x 20-inch (25 x 50 cm) rectangle again.",
+        "Fold both short edges toward the center until they meet without overlapping, then fold the dough in half along that center line like closing a book (a book fold). Turn it 90°.",
+        "Wrap the dough in lightly floured plastic wrap and refrigerate for at least 8 hours, or up to 24 hours."
+      ]
+    },
+    {
+      "name": "Shape and bake",
+      "steps": [
+        "Cut the dough in half and return one half to the refrigerator.",
+        "Roll the other half to a generous 8 x 24 inches (20 x 60 cm). Cut it with a bench knife into eight 4 x 6-inch (10 x 15 cm) pieces.",
+        "Put one or two chocolate sticks at one end of each piece and roll it into a tube. Set seam side down on a lightly greased or parchment-lined baking sheet and press the tops down to flatten them into a rectangle. Repeat with the remaining dough.",
+        "Cover and let the rolls rise in a warm place until light and puffy, about an hour. Toward the end of the rise, heat the oven to 425°F (220°C).",
+        "Just before baking, brush the tops with the egg glaze. Bake for 18 to 20 minutes, until golden brown.",
+        "Let them cool a bit before eating so the structure can set."
+      ]
+    }
+  ],
+  "notes": [
+    "The dough rests in the refrigerator several times. Read the whole recipe before you start so you can plan.",
+    "For a bit more depth of flavor and a slightly darker color, swap ½ cup (53 g) medium rye flour for ½ cup of the all-purpose flour."
+  ],
+  "storage": "Store leftover rolls well wrapped at room temperature for several days, or freeze for longer storage."
+}

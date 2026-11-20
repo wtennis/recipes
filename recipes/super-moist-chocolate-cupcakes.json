@@ -1,0 +1,63 @@
+{
+  "slug": "super-moist-chocolate-cupcakes",
+  "title": "Super Moist Chocolate Cupcakes",
+  "description": "Rich, fudgy, easy chocolate cupcakes made from simple everyday ingredients. Over-the-top with chocolate buttercream.",
+  "source": { "type": "url", "url": "https://sallysbakingaddiction.com/super-moist-chocolate-cupcakes/", "name": "Sally's Baking Addiction" },
+  "added": "2026-11-20",
+  "tags": ["dessert", "baking", "cupcakes", "chocolate"],
+  "servings": { "amount": 12, "unit": "cupcakes" },
+  "times": { "prep": 15, "cook": 20, "total": 215 },
+  "equipment": ["12-count muffin pan plus a second pan", "cupcake liners", "mixing bowls", "whisk", "icing knife or piping bag with a Wilton 1M tip"],
+  "ingredient_groups": [
+    {
+      "name": "Dry ingredients",
+      "items": [
+        { "qty": 0.75, "unit": "cup", "grams": 94, "item": "all-purpose flour", "note": "spooned and leveled" },
+        { "qty": 0.5, "unit": "cup", "grams": 41, "item": "unsweetened natural cocoa powder", "note": "not Dutch-process" },
+        { "qty": 1, "unit": "tsp", "grams": 1, "item": "espresso powder or instant espresso", "note": "optional; instant coffee powder also works" },
+        { "qty": 0.75, "unit": "tsp", "grams": 3, "item": "baking powder" },
+        { "qty": 0.5, "unit": "tsp", "grams": 3, "item": "baking soda" },
+        { "qty": 0.25, "unit": "tsp", "grams": 1.5, "item": "salt" }
+      ]
+    },
+    {
+      "name": "Wet ingredients",
+      "items": [
+        { "qty": 2, "unit": null, "grams": 100, "item": "large eggs", "note": "room temperature" },
+        { "qty": 0.5, "unit": "cup", "grams": 100, "item": "granulated sugar" },
+        { "qty": 0.5, "unit": "cup", "grams": 100, "item": "light brown sugar", "note": "packed" },
+        { "qty": 0.333, "unit": "cup", "grams": 67, "item": "vegetable or canola oil", "note": "or melted coconut oil" },
+        { "qty": 2, "unit": "tsp", "grams": 8, "item": "pure vanilla extract" },
+        { "qty": 0.5, "unit": "cup", "grams": 120, "item": "buttermilk", "note": "room temperature" }
+      ]
+    },
+    {
+      "name": "To decorate",
+      "items": [
+        { "qty": null, "unit": null, "grams": null, "item": "chocolate buttercream and sprinkles" }
+      ]
+    }
+  ],
+  "step_groups": [
+    {
+      "steps": [
+        "Heat the oven to 350°F (177°C). Line a 12-count muffin pan with cupcake liners, plus a couple of liners in a second pan; the batter makes a few extra.",
+        "In a large bowl, whisk the flour, cocoa, espresso powder, baking powder, baking soda and salt until thoroughly combined. Set aside.",
+        "In a medium bowl, whisk the eggs, both sugars, oil and vanilla until completely smooth.",
+        "Pour half the wet ingredients into the dry, then half the buttermilk, and whisk gently for a few seconds. Repeat with the rest of the wet ingredients and buttermilk. Stir until just combined; don't overmix. The batter will be thin.",
+        "Pour or spoon the batter into the liners, filling them only halfway so they don't overflow or sink. This matters.",
+        "Bake for 18 to 21 minutes, until a toothpick inserted in the center comes out clean. Cool completely before frosting.",
+        "Frost with chocolate buttercream, swiped on with an icing knife or piped with a tip such as a Wilton 1M."
+      ]
+    }
+  ],
+  "notes": [
+    "Makes 12 to 14 cupcakes.",
+    "Make ahead: bake the cupcakes 1 day in advance, keep them tightly covered at room temperature, and frost the day of serving. Unfrosted cupcakes freeze for up to 2 months; thaw overnight in the fridge and bring to room temperature before frosting.",
+    "Mini cupcakes: fill mini liners only halfway and bake for 10 to 12 minutes at 350°F (177°C).",
+    "Use natural cocoa powder, not Dutch-process.",
+    "Bring all refrigerated ingredients to room temperature so the batter mixes easily and evenly.",
+    "Buttermilk is required. To make a substitute, put 1 teaspoon of white vinegar or lemon juice in a liquid measuring cup, add whole milk to the ½-cup line, stir and let sit 5 minutes."
+  ],
+  "storage": "Keep leftover cupcakes tightly covered in the refrigerator for up to 3 days."
+}

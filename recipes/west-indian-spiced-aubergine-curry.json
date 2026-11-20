@@ -1,0 +1,57 @@
+{
+  "slug": "west-indian-spiced-aubergine-curry",
+  "title": "West Indian Spiced Aubergine Curry",
+  "description": "A vegan aubergine curry, low in fat yet packed with flavour. Serve with rice or roti.",
+  "source": { "type": "url", "url": "https://www.bbcgoodfoodme.com/recipes/west-indian-spiced-aubergine-curry/", "name": "BBC Good Food Middle East (Kish Gandi)" },
+  "added": "2026-11-20",
+  "tags": ["dinner", "vegan", "vegetarian", "curry"],
+  "servings": { "amount": 2, "unit": "servings" },
+  "times": { "prep": 30, "cook": 15, "total": 45 },
+  "equipment": ["large non-stick frying pan with a lid", "sharp knife"],
+  "ingredient_groups": [
+    {
+      "name": "Spice rub",
+      "items": [
+        { "qty": 1, "unit": "tsp", "grams": 2, "item": "ground cumin" },
+        { "qty": 1, "unit": "tsp", "grams": 2, "item": "ground coriander" },
+        { "qty": 0.5, "unit": "tsp", "grams": 1.5, "item": "ground turmeric" },
+        { "qty": 1, "unit": "tsp", "grams": 6, "item": "salt" },
+        { "qty": 1, "unit": null, "grams": null, "item": "large aubergine" }
+      ]
+    },
+    {
+      "name": "Sauce",
+      "items": [
+        { "qty": 150, "unit": "ml", "grams": 150, "item": "water", "note": "plus up to 100 ml more if needed" },
+        { "qty": 2, "unit": "tbsp", "grams": 32, "item": "tomato purée" },
+        { "qty": 0.5, "unit": null, "grams": null, "item": "green chilli", "note": "finely chopped" },
+        { "qty": 1, "unit": "piece", "grams": null, "item": "ginger", "note": "1 cm, peeled and finely chopped" },
+        { "qty": 2, "unit": "tsp", "grams": 8, "item": "caster sugar" },
+        { "qty": [0.5, 1], "unit": "tbsp", "grams": 7, "item": "rapeseed oil", "note": "grams are for ½ tablespoon" }
+      ]
+    },
+    {
+      "name": "To serve",
+      "items": [
+        { "qty": 3, "unit": null, "grams": null, "item": "spring onions", "note": "chopped" },
+        { "qty": 0.5, "unit": "bunch", "grams": null, "item": "coriander", "note": "shredded" },
+        { "qty": null, "unit": null, "grams": null, "item": "cooked rice, natural yogurt, roti and lime wedges" }
+      ]
+    }
+  ],
+  "step_groups": [
+    {
+      "steps": [
+        "Mix the cumin, coriander, turmeric and salt in a bowl and set aside.",
+        "Slice the aubergine into 1 cm rounds and score both sides of each round with the tip of a sharp knife. Rub them with all of the spice mix until well coated, then move them to a board.",
+        "In the empty spice bowl, combine the water, tomato purée, chilli, ginger and sugar. Set aside.",
+        "Heat the oil in a large non-stick frying pan over medium heat. Arrange the aubergine in the pan, overlapping the rounds if needed, and fry for 5 minutes per side, until golden.",
+        "Add the liquid from the bowl, bring to a simmer, cover and cook for 15 to 20 minutes, turning the aubergine now and then, until cooked through. If it seems dry, add some of the extra water to make it saucier. Season.",
+        "Scatter with the spring onions and coriander. Serve with rice, yogurt, roti and lime wedges for squeezing over."
+      ]
+    }
+  ],
+  "notes": [
+    "To stretch leftovers into an aubergine and chickpea curry, heat them with a drained 400 g can of chickpeas until warmed through, and scatter with chopped coriander if you have any."
+  ]
+}

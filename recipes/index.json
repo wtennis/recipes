@@ -1,5 +1,68 @@
 [
   {
+    "slug": "braided-apple-walnut-bread",
+    "title": "Braided Apple Walnut Bread",
+    "description": "Apple, walnuts and cinnamon coconut sugar twisted into a honey-sweetened spelt bread wreath. Free of eggs and refined sugar.",
+    "tags": [
+      "baking",
+      "bread",
+      "breakfast",
+      "dessert"
+    ],
+    "times": {
+      "total": 76
+    },
+    "servings": {
+      "amount": 8,
+      "unit": "servings"
+    },
+    "added": "2026-11-20",
+    "ingredients": [
+      "almond milk or other milk",
+      "butter or vegan butter",
+      "honey, coconut nectar, or sugar",
+      "salt",
+      "instant or rapid-rise yeast",
+      "all-purpose flour",
+      "spelt or all-purpose flour",
+      "coconut sugar",
+      "cinnamon",
+      "large apple",
+      "chopped walnuts or other nuts",
+      "butter",
+      "powdered sugar"
+    ]
+  },
+  {
+    "slug": "chef-johns-peanut-butter-cookies",
+    "title": "Chef John's Peanut Butter Cookies",
+    "description": "Moist, chewy peanut butter cookies full of sweet and salty flavor.",
+    "tags": [
+      "dessert",
+      "baking",
+      "cookies"
+    ],
+    "times": {
+      "total": 150
+    },
+    "servings": {
+      "amount": 24,
+      "unit": "cookies"
+    },
+    "added": "2026-11-20",
+    "ingredients": [
+      "unsalted butter",
+      "white sugar",
+      "brown sugar",
+      "creamy peanut butter",
+      "kosher salt",
+      "baking powder",
+      "baking soda",
+      "egg",
+      "all-purpose flour"
+    ]
+  },
+  {
     "slug": "chewy-ginger-molasses-cookies",
     "title": "Chewy Ginger Molasses Cookies",
     "description": "Easy to make, super-soft and chewy, and irresistibly delicious.",
@@ -31,6 +94,497 @@
       "ground cloves",
       "fine sea salt",
       "sugar"
+    ]
+  },
+  {
+    "slug": "szechuan-eggplant",
+    "title": "Chinese Eggplant with Spicy Szechuan Sauce",
+    "description": "Chinese eggplant in a Szechuan sauce with chilies and peanuts: a tasty, easy vegan dinner.",
+    "tags": [
+      "dinner",
+      "vegan",
+      "vegetarian",
+      "chinese"
+    ],
+    "times": {
+      "total": 45
+    },
+    "servings": {
+      "amount": 4,
+      "unit": "servings"
+    },
+    "added": "2026-11-20",
+    "ingredients": [
+      "Japanese eggplant",
+      "salt",
+      "water",
+      "cornstarch",
+      "peanut oil or wok oil",
+      "garlic",
+      "ginger",
+      "dried red chilies",
+      "Szechuan peppercorns",
+      "soy sauce or low-sodium soy sauce",
+      "garlic chili paste",
+      "sesame oil",
+      "rice vinegar",
+      "Chinese cooking wine",
+      "sugar",
+      "five spice",
+      "scallions",
+      "peanuts",
+      "rice, black rice, cauliflower rice, quinoa or rice noodles"
+    ]
+  },
+  {
+    "slug": "chocolate-caramel-oat-bars-carmelitas",
+    "title": "Chocolate Caramel Oat Bars (Carmelitas)",
+    "description": "Gooey, decadent bars with layers of caramel, chocolate and chewy oats.",
+    "tags": [
+      "dessert",
+      "baking",
+      "bars",
+      "chocolate"
+    ],
+    "times": {
+      "total": 25
+    },
+    "servings": {
+      "amount": 20,
+      "unit": "bars"
+    },
+    "added": "2026-11-20",
+    "ingredients": [
+      "nonstick cooking spray",
+      "quick oats",
+      "all-purpose flour",
+      "brown sugar",
+      "baking soda",
+      "salt",
+      "unsalted butter",
+      "semisweet chocolate chips",
+      "soft caramel candies",
+      "heavy cream",
+      "semisweet chocolate chips"
+    ]
+  },
+  {
+    "slug": "dairy-free-coconut-macaroon-cookies",
+    "title": "Dairy-Free Coconut Macaroon Cookies",
+    "description": "Coconut macaroons made with just a few ingredients: dairy-free, lactose-free, gluten-free and wheat-free.",
+    "tags": [
+      "dessert",
+      "baking",
+      "cookies",
+      "dairy-free",
+      "gluten-free"
+    ],
+    "times": {
+      "total": 20
+    },
+    "servings": {
+      "amount": 36,
+      "unit": "cookies"
+    },
+    "added": "2026-11-20",
+    "ingredients": [
+      "unsweetened coconut",
+      "granulated sugar",
+      "salt",
+      "large egg whites",
+      "pure vanilla extract"
+    ]
+  },
+  {
+    "slug": "moist-chocolate-layer-cake",
+    "title": "Deliciously Moist Chocolate Layer Cake",
+    "description": "A homemade chocolate cake with a super moist crumb and a fudgy yet light texture, topped with chocolate buttercream and chocolate chips for 3x the chocolate.",
+    "tags": [
+      "dessert",
+      "baking",
+      "cake",
+      "chocolate"
+    ],
+    "times": {
+      "total": 240
+    },
+    "servings": {
+      "amount": 12,
+      "unit": "servings"
+    },
+    "added": "2026-11-20",
+    "ingredients": [
+      "all-purpose flour",
+      "unsweetened natural cocoa powder",
+      "granulated sugar",
+      "baking soda",
+      "baking powder",
+      "salt",
+      "espresso powder",
+      "vegetable oil",
+      "large eggs",
+      "pure vanilla extract",
+      "buttermilk",
+      "strong coffee or water",
+      "unsalted butter",
+      "confectioners' sugar",
+      "unsweetened cocoa powder",
+      "heavy cream",
+      "more heavy cream",
+      "pure vanilla extract",
+      "salt",
+      "semi-sweet chocolate chips"
+    ]
+  },
+  {
+    "slug": "easy-homemade-dill-pickles",
+    "title": "Easy Homemade Dill Pickles",
+    "description": "Cool, crunchy, tangy refrigerator dill pickles made from scratch.",
+    "tags": [
+      "pickles",
+      "vegetarian",
+      "snack"
+    ],
+    "times": {
+      "total": 20
+    },
+    "servings": {
+      "amount": 2,
+      "unit": "pint jar",
+      "unit_plural": "pint jars"
+    },
+    "added": "2026-11-20",
+    "ingredients": [
+      "Kirby or Persian cucumbers",
+      "garlic",
+      "dill seeds",
+      "red pepper flakes",
+      "apple cider vinegar",
+      "water",
+      "pickling salt or kosher salt"
+    ]
+  },
+  {
+    "slug": "gingersnaps",
+    "title": "Gingersnaps",
+    "description": "Barely adapted from Sweet Melissa Patisserie and Cook's Illustrated.",
+    "tags": [
+      "dessert",
+      "baking",
+      "cookies",
+      "holiday"
+    ],
+    "times": {
+      "total": 138
+    },
+    "servings": {
+      "amount": 48,
+      "unit": "cookies (about)"
+    },
+    "added": "2026-11-20",
+    "ingredients": [
+      "all-purpose flour",
+      "baking soda",
+      "table salt",
+      "ground ginger",
+      "cinnamon",
+      "allspice",
+      "ground white pepper",
+      "unsalted butter",
+      "granulated sugar",
+      "light brown sugar",
+      "large egg",
+      "unsulphured molasses",
+      "fresh ginger",
+      "candied ginger"
+    ]
+  },
+  {
+    "slug": "homemade-biscuits",
+    "title": "Homemade Biscuits",
+    "description": "Buttery, soft biscuits made completely from scratch, with all butter and no shortening.",
+    "tags": [
+      "baking",
+      "breakfast",
+      "bread"
+    ],
+    "times": {
+      "total": 27
+    },
+    "servings": {
+      "amount": 6,
+      "unit": "biscuits"
+    },
+    "added": "2026-11-20",
+    "ingredients": [
+      "all-purpose flour",
+      "baking powder",
+      "granulated sugar",
+      "salt",
+      "unsalted butter",
+      "whole milk",
+      "melted salted butter"
+    ]
+  },
+  {
+    "slug": "homemade-salted-caramel",
+    "title": "Homemade Salted Caramel",
+    "description": "Salty, sweet, irresistibly buttery caramel from just 4 ingredients. No candy thermometer required.",
+    "tags": [
+      "dessert",
+      "sauce"
+    ],
+    "times": {
+      "total": 20
+    },
+    "servings": {
+      "amount": 1,
+      "unit": "cup (290 g)",
+      "unit_plural": "cups"
+    },
+    "added": "2026-11-20",
+    "ingredients": [
+      "granulated sugar",
+      "unsalted butter",
+      "heavy cream",
+      "salt"
+    ]
+  },
+  {
+    "slug": "lemon-poppy-seed-bundt-cake",
+    "title": "Lemon Poppy Seed Bundt Cake",
+    "description": "A moist, perfectly sweet, lemony homemade bundt cake topped with lemon glaze.",
+    "tags": [
+      "dessert",
+      "baking",
+      "cake"
+    ],
+    "times": {
+      "total": 70
+    },
+    "servings": {
+      "amount": 10,
+      "unit": "slices"
+    },
+    "added": "2026-11-20",
+    "ingredients": [
+      "all-purpose flour",
+      "baking powder",
+      "baking soda",
+      "salt",
+      "poppy seeds",
+      "unsalted butter",
+      "granulated sugar",
+      "large eggs",
+      "vanilla extract",
+      "fresh lemon juice",
+      "lemon zest",
+      "canola or vegetable oil",
+      "sour cream",
+      "nonstick cooking spray",
+      "confectioners' sugar",
+      "fresh lemon juice"
+    ]
+  },
+  {
+    "slug": "my-favorite-challah",
+    "title": "My Favorite Challah",
+    "description": "Joan Nathan's braided challah, shaped from six strands into a straight or round loaf.",
+    "tags": [
+      "baking",
+      "bread"
+    ],
+    "times": {
+      "total": 190
+    },
+    "servings": {
+      "amount": 2,
+      "unit": "challah",
+      "unit_plural": "challahs"
+    },
+    "added": "2026-11-20",
+    "ingredients": [
+      "active dry yeast",
+      "lukewarm water",
+      "sugar",
+      "sugar",
+      "vegetable oil",
+      "large eggs",
+      "salt",
+      "all-purpose flour",
+      "large egg",
+      "poppy or sesame seeds"
+    ]
+  },
+  {
+    "slug": "pain-au-chocolat",
+    "title": "Pain au Chocolat",
+    "description": "Soft, tender yeast bread wrapped around melting sticks of dark chocolate.",
+    "tags": [
+      "baking",
+      "breakfast",
+      "pastry",
+      "chocolate"
+    ],
+    "times": {
+      "total": 1218
+    },
+    "servings": {
+      "amount": 16,
+      "unit": "rolls"
+    },
+    "added": "2026-11-20",
+    "ingredients": [
+      "water, milk or a combination",
+      "granulated sugar",
+      "all-purpose flour",
+      "all-purpose flour",
+      "instant yeast",
+      "table salt",
+      "unsalted butter",
+      "unsalted butter",
+      "pain au chocolat sticks",
+      "large egg"
+    ]
+  },
+  {
+    "slug": "pumpkin-espresso-bundt-cake",
+    "title": "Pumpkin Espresso Bundt Cake",
+    "description": "A swirl of coffee-flavored filling in a moist, flavorful pumpkin bundt cake, brushed with a coffee-rum syrup.",
+    "tags": [
+      "dessert",
+      "baking",
+      "cake",
+      "fall",
+      "dairy-free"
+    ],
+    "times": {
+      "total": 90
+    },
+    "servings": {
+      "amount": 20,
+      "unit": "servings"
+    },
+    "added": "2026-11-20",
+    "ingredients": [
+      "pumpkin purée",
+      "large eggs",
+      "vegetable oil",
+      "light or dark brown sugar",
+      "granulated sugar",
+      "vanilla extract",
+      "King Arthur Golden Wheat Flour",
+      "baking powder",
+      "baking soda",
+      "pumpkin pie spice",
+      "ground cinnamon",
+      "table salt",
+      "light or dark brown sugar",
+      "espresso powder",
+      "ground cinnamon",
+      "brewed coffee",
+      "granulated sugar",
+      "rum"
+    ]
+  },
+  {
+    "slug": "spiderweb-cake",
+    "title": "Spiderweb Cake",
+    "description": "Nothing is going to come between us and chocolate cake. Not even spiders.",
+    "tags": [
+      "dessert",
+      "baking",
+      "cake",
+      "chocolate",
+      "halloween"
+    ],
+    "times": {
+      "total": 55
+    },
+    "servings": {
+      "amount": 6,
+      "unit": "servings"
+    },
+    "added": "2026-11-20",
+    "ingredients": [
+      "box chocolate cake mix",
+      "unsalted butter",
+      "confectioners' sugar",
+      "marshmallow crème",
+      "vanilla extract",
+      "kosher salt",
+      "heavy cream",
+      "semisweet chocolate chips",
+      "tube store-bought vanilla icing"
+    ]
+  },
+  {
+    "slug": "super-moist-chocolate-cupcakes",
+    "title": "Super Moist Chocolate Cupcakes",
+    "description": "Rich, fudgy, easy chocolate cupcakes made from simple everyday ingredients. Over-the-top with chocolate buttercream.",
+    "tags": [
+      "dessert",
+      "baking",
+      "cupcakes",
+      "chocolate"
+    ],
+    "times": {
+      "total": 215
+    },
+    "servings": {
+      "amount": 12,
+      "unit": "cupcakes"
+    },
+    "added": "2026-11-20",
+    "ingredients": [
+      "all-purpose flour",
+      "unsweetened natural cocoa powder",
+      "espresso powder or instant espresso",
+      "baking powder",
+      "baking soda",
+      "salt",
+      "large eggs",
+      "granulated sugar",
+      "light brown sugar",
+      "vegetable or canola oil",
+      "pure vanilla extract",
+      "buttermilk",
+      "chocolate buttercream and sprinkles"
+    ]
+  },
+  {
+    "slug": "west-indian-spiced-aubergine-curry",
+    "title": "West Indian Spiced Aubergine Curry",
+    "description": "A vegan aubergine curry, low in fat yet packed with flavour. Serve with rice or roti.",
+    "tags": [
+      "dinner",
+      "vegan",
+      "vegetarian",
+      "curry"
+    ],
+    "times": {
+      "total": 45
+    },
+    "servings": {
+      "amount": 2,
+      "unit": "servings"
+    },
+    "added": "2026-11-20",
+    "ingredients": [
+      "ground cumin",
+      "ground coriander",
+      "ground turmeric",
+      "salt",
+      "large aubergine",
+      "water",
+      "tomato purée",
+      "green chilli",
+      "ginger",
+      "caster sugar",
+      "rapeseed oil",
+      "spring onions",
+      "coriander",
+      "cooked rice, natural yogurt, roti and lime wedges"
     ]
   }
 ]

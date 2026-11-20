@@ -1,0 +1,77 @@
+{
+  "slug": "pumpkin-espresso-bundt-cake",
+  "title": "Pumpkin Espresso Bundt Cake",
+  "description": "A swirl of coffee-flavored filling in a moist, flavorful pumpkin bundt cake, brushed with a coffee-rum syrup.",
+  "source": { "type": "url", "url": "https://www.kingarthurbaking.com/recipes/pumpkin-espresso-bundt-cake-recipe", "name": "King Arthur Baking (Kristin Rosenau)" },
+  "added": "2026-11-20",
+  "tags": ["dessert", "baking", "cake", "fall", "dairy-free"],
+  "servings": { "amount": 20, "unit": "servings" },
+  "times": { "prep": 10, "cook": 60, "total": 90 },
+  "equipment": ["10-cup bundt pan", "wire rack", "pastry brush"],
+  "ingredient_groups": [
+    {
+      "name": "Cake",
+      "items": [
+        { "qty": 1, "unit": "can", "grams": 425, "item": "pumpkin purée", "note": "15-ounce can, or 2 scant cups" },
+        { "qty": 4, "unit": null, "grams": 200, "item": "large eggs", "note": "room temperature" },
+        { "qty": 0.75, "unit": "cup", "grams": 149, "item": "vegetable oil" },
+        { "qty": 1, "unit": "cup", "grams": 213, "item": "light or dark brown sugar", "note": "packed" },
+        { "qty": 0.75, "unit": "cup", "grams": 149, "item": "granulated sugar" },
+        { "qty": 1, "unit": "tsp", "grams": 4, "item": "vanilla extract" },
+        { "qty": 2, "unit": "cup", "grams": 227, "item": "King Arthur Golden Wheat Flour" },
+        { "qty": 2, "unit": "tsp", "grams": 8, "item": "baking powder" },
+        { "qty": 0.5, "unit": "tsp", "grams": 3, "item": "baking soda" },
+        { "qty": 1.5, "unit": "tsp", "grams": 4, "item": "pumpkin pie spice" },
+        { "qty": 1, "unit": "tsp", "grams": 3, "item": "ground cinnamon" },
+        { "qty": 1, "unit": "tsp", "grams": 6, "item": "table salt" }
+      ]
+    },
+    {
+      "name": "Filling",
+      "items": [
+        { "qty": 0.333, "unit": "cup", "grams": 71, "item": "light or dark brown sugar", "note": "packed" },
+        { "qty": 1, "unit": "tbsp", "grams": 7, "item": "espresso powder" },
+        { "qty": 0.5, "unit": "tsp", "grams": 1, "item": "ground cinnamon" }
+      ]
+    },
+    {
+      "name": "Glaze",
+      "items": [
+        { "qty": 0.333, "unit": "cup", "grams": 74, "item": "brewed coffee" },
+        { "qty": 0.333, "unit": "cup", "grams": 67, "item": "granulated sugar" },
+        { "qty": 1.5, "unit": "tbsp", "grams": 21, "item": "rum", "note": "optional" }
+      ]
+    }
+  ],
+  "step_groups": [
+    {
+      "name": "Cake batter and filling",
+      "steps": [
+        "Heat the oven to 350°F (175°C).",
+        "In a large bowl, beat the pumpkin, eggs, oil, both sugars and vanilla until well blended.",
+        "Stir in the flour, baking powder, baking soda, spices and salt until smooth and uniform. Set aside.",
+        "In a small bowl, whisk the filling's brown sugar, cinnamon and espresso powder together."
+      ]
+    },
+    {
+      "name": "Assemble and bake",
+      "steps": [
+        "Grease a 10-cup bundt pan thoroughly. Spoon in a third of the batter and sprinkle half the filling over it. Add another third of the batter and the rest of the filling, then spread the remaining batter on top and smooth it with a spatula.",
+        "Bake for 55 to 60 minutes, until a toothpick inserted in the center comes out clean.",
+        "Cool in the pan for 15 minutes, then turn the cake out onto a rack to cool completely."
+      ]
+    },
+    {
+      "name": "Glaze",
+      "steps": [
+        "While the cake bakes, whisk the coffee, sugar and rum together. If the coffee isn't hot enough to dissolve the sugar, heat it briefly, stirring until it dissolves.",
+        "Brush the glaze evenly over the cake while it's still warm. Serve once the glaze has soaked in and dried a bit."
+      ]
+    }
+  ],
+  "notes": [
+    "Made with whole grain Golden Wheat Flour and no dairy ingredients.",
+    "You can make your own pumpkin purée from fresh pumpkin instead of using canned."
+  ],
+  "storage": "Store leftovers well wrapped at room temperature for several days; freeze for longer storage."
+}

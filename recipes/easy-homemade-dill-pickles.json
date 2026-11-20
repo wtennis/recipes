@@ -1,0 +1,43 @@
+{
+  "slug": "easy-homemade-dill-pickles",
+  "title": "Easy Homemade Dill Pickles",
+  "description": "Cool, crunchy, tangy refrigerator dill pickles made from scratch.",
+  "source": { "type": "url", "url": "https://www.thekitchn.com/how-to-make-dill-pickles-cooking-lessons-from-the-kitchn-193350", "name": "The Kitchn (Emma Christensen)" },
+  "added": "2026-11-20",
+  "tags": ["pickles", "vegetarian", "snack"],
+  "servings": { "amount": 2, "unit": "pint jar", "unit_plural": "pint jars" },
+  "times": { "prep": 15, "cook": 5, "total": 20 },
+  "equipment": ["pint jars with lids and rings", "small saucepan"],
+  "ingredient_groups": [
+    {
+      "name": "Jars",
+      "items": [
+        { "qty": 1.5, "unit": "lb", "grams": 680, "item": "Kirby or Persian cucumbers" },
+        { "qty": 4, "unit": "clove", "grams": null, "item": "garlic", "note": "smashed and peeled" },
+        { "qty": 2, "unit": "tsp", "grams": 4, "item": "dill seeds" },
+        { "qty": 0.5, "unit": "tsp", "grams": 1, "item": "red pepper flakes", "note": "optional" }
+      ]
+    },
+    {
+      "name": "Brine",
+      "items": [
+        { "qty": 1, "unit": "cup", "grams": 239, "item": "apple cider vinegar" },
+        { "qty": 1, "unit": "cup", "grams": 236, "item": "water" },
+        { "qty": 4, "unit": "tsp", "grams": 24, "item": "pickling salt or kosher salt", "note": "grams are for pickling salt" }
+      ]
+    }
+  ],
+  "step_groups": [
+    {
+      "steps": [
+        "Wash and dry the jars and lids, and the cucumbers. Trim off the blossom or stem end of each cucumber; it has enzymes that can make pickles limp. Leave the cucumbers whole, cut them lengthwise into spears, or slice them crosswise into coins.",
+        "Divide the garlic, dill seeds and red pepper flakes (if using) evenly between the jars.",
+        "Pack the cucumbers into the jars as tightly as you can without smashing them (standing up if they're whole or in spears). Trim the ends if they come within ½ inch (1 cm) of the top of the jar.",
+        "Bring the vinegar, water and salt to a boil in a small saucepan over high heat. Pour the brine over the cucumbers, filling each jar to within ½ inch (1 cm) of the top. You may not need all of it.",
+        "Tap the jars gently on the counter a few times to release air bubbles, and top off with more brine if needed. Put on the lids and screw on the rings until tight, but not too tight.",
+        "Let the jars cool to room temperature, then refrigerate. The flavor improves as they age; try to wait at least 48 hours before opening."
+      ]
+    }
+  ],
+  "storage": "Refrigerate for up to 3 weeks."
+}
