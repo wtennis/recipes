@@ -29,5 +29,38 @@
       "semisweet chocolate chips",
       "flaky salt"
     ]
+  },
+  {
+    "slug": "chewy-ginger-molasses-cookies",
+    "title": "Chewy Ginger Molasses Cookies",
+    "description": "Soft, thick, chewy molasses cookies warmed with ginger, cinnamon and cloves, rolled in sugar so the tops crackle. A big batch that's made for holiday cookie trays.",
+    "tags": [
+      "dessert",
+      "baking",
+      "cookies",
+      "holiday"
+    ],
+    "times": {
+      "total": 150
+    },
+    "servings": {
+      "amount": 60,
+      "unit": "cookies"
+    },
+    "added": "2026-11-20",
+    "ingredients": [
+      "unsalted butter",
+      "granulated sugar",
+      "brown sugar",
+      "unsulphured molasses",
+      "large eggs",
+      "all-purpose flour",
+      "baking soda",
+      "ground ginger",
+      "ground cinnamon",
+      "ground cloves",
+      "fine sea salt",
+      "granulated sugar"
+    ]
   }
 ]
