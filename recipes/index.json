@@ -1,39 +1,8 @@
 [
   {
-    "slug": "brown-butter-chocolate-chip-cookies",
-    "title": "Brown Butter Chocolate Chip Cookies",
-    "description": "Chewy chocolate chip cookies with crisp edges and a nutty, toffee-like flavor from browned butter. The dough rests before baking for a deeper caramel taste.",
-    "tags": [
-      "dessert",
-      "baking",
-      "cookies",
-      "chocolate"
-    ],
-    "times": {
-      "total": 75
-    },
-    "servings": {
-      "amount": 24,
-      "unit": "cookies"
-    },
-    "added": "2026-11-20",
-    "ingredients": [
-      "all-purpose flour",
-      "baking soda",
-      "kosher salt",
-      "unsalted butter",
-      "light or dark brown sugar",
-      "granulated sugar",
-      "large eggs",
-      "vanilla extract",
-      "semisweet chocolate chips",
-      "flaky salt"
-    ]
-  },
-  {
     "slug": "chewy-ginger-molasses-cookies",
     "title": "Chewy Ginger Molasses Cookies",
-    "description": "Soft, thick, chewy molasses cookies warmed with ginger, cinnamon and cloves, rolled in sugar so the tops crackle. A big batch that's made for holiday cookie trays.",
+    "description": "Easy to make, super-soft and chewy, and irresistibly delicious.",
     "tags": [
       "dessert",
       "baking",
@@ -41,16 +10,17 @@
       "holiday"
     ],
     "times": {
-      "total": 150
+      "total": 145
     },
     "servings": {
-      "amount": 60,
-      "unit": "cookies"
+      "amount": 1,
+      "unit": "large batch",
+      "unit_plural": "large batches"
     },
     "added": "2026-11-20",
     "ingredients": [
       "unsalted butter",
-      "granulated sugar",
+      "granulated white sugar",
       "brown sugar",
       "unsulphured molasses",
       "large eggs",
@@ -60,7 +30,7 @@
       "ground cinnamon",
       "ground cloves",
       "fine sea salt",
-      "granulated sugar"
+      "sugar"
     ]
   }
 ]

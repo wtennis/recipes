@@ -117,7 +117,9 @@
 
   function servingsText() {
     var s = recipe.servings;
-    return 'Makes ' + C.formatServings(s.amount, scale) + ' ' + s.unit;
+    var n = s.amount * scale;
+    var unit = (n > 1 && s.unit_plural) ? s.unit_plural : s.unit;
+    return 'Makes ' + C.formatServings(s.amount, scale) + ' ' + unit;
   }
 
   // ---- wake lock ---------------------------------------------------------

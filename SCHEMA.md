@@ -44,7 +44,7 @@ An alternative `source` for original recipes: `{ "type": "idea", "prompt": "the 
 | `source` | yes | `{ "type": "url", "url": "http(s)://...", "name": "..." }` (both `url` and `name` required) or `{ "type": "idea", "prompt": "..." }`. |
 | `added` | yes | Date string `YYYY-MM-DD`. |
 | `tags` | yes | Non-empty array of lowercase strings. Reuse existing tags where possible (`dessert`, `baking`, `dinner`, `vegetarian`, ...). |
-| `servings` | yes | `{ "amount": <positive number>, "unit": "<string>" }`, e.g. `{ "amount": 24, "unit": "cookies" }` or `{ "amount": 4, "unit": "servings" }`. |
+| `servings` | yes | `{ "amount": <positive number>, "unit": "<string>" }`, e.g. `{ "amount": 24, "unit": "cookies" }` or `{ "amount": 4, "unit": "servings" }`. Optional `unit_plural` is used when the scaled amount is over 1: `{ "amount": 1, "unit": "large batch", "unit_plural": "large batches" }`. |
 | `times` | yes | Minutes. `total` required; `prep` and `cook` optional. Include any waiting (chilling, rising) in `total`. |
 | `equipment` | no | Array of strings. |
 | `ingredient_groups` | yes | Non-empty array of groups (below). |

@@ -1,23 +1,23 @@
 {
   "slug": "chewy-ginger-molasses-cookies",
   "title": "Chewy Ginger Molasses Cookies",
-  "description": "Soft, thick, chewy molasses cookies warmed with ginger, cinnamon and cloves, rolled in sugar so the tops crackle. A big batch that's made for holiday cookie trays.",
+  "description": "Easy to make, super-soft and chewy, and irresistibly delicious.",
   "source": { "type": "url", "url": "https://www.gimmesomeoven.com/chewy-ginger-molasses-cookies/", "name": "Gimme Some Oven (Ali)" },
   "added": "2026-11-20",
   "tags": ["dessert", "baking", "cookies", "holiday"],
-  "servings": { "amount": 60, "unit": "cookies" },
-  "times": { "prep": 15, "cook": 10, "total": 150 },
-  "equipment": ["stand mixer or hand mixer", "sheet pans", "parchment paper or silicone baking mats", "wire racks"],
+  "servings": { "amount": 1, "unit": "large batch", "unit_plural": "large batches" },
+  "times": { "prep": 15, "cook": 10, "total": 145 },
+  "equipment": ["stand mixer or hand mixer", "sheet pan", "parchment paper or silicone baking mat", "wire racks", "airtight container"],
   "ingredient_groups": [
     {
       "name": "Dough",
       "items": [
-        { "qty": 1.5, "unit": "cup", "grams": 340, "item": "unsalted butter", "note": "fully softened, not melted" },
-        { "qty": 1, "unit": "cup", "grams": 200, "item": "granulated sugar" },
+        { "qty": 1.5, "unit": "cup", "grams": 340, "item": "unsalted butter", "note": "softened to room temperature, not melted" },
+        { "qty": 1, "unit": "cup", "grams": 200, "item": "granulated white sugar" },
         { "qty": 1, "unit": "cup", "grams": 213, "item": "brown sugar", "note": "packed" },
-        { "qty": 0.5, "unit": "cup", "grams": 170, "item": "unsulphured molasses", "note": "original, not blackstrap" },
+        { "qty": 0.5, "unit": "cup", "grams": 170, "item": "unsulphured molasses", "note": "original, not dark" },
         { "qty": 2, "unit": null, "grams": 100, "item": "large eggs" },
-        { "qty": 4.5, "unit": "cup", "grams": 639, "item": "all-purpose flour", "note": "the source weighs flour at 142 g per cup" },
+        { "qty": 4.5, "unit": "cup", "grams": 639, "item": "all-purpose flour" },
         { "qty": 4, "unit": "tsp", "grams": 24, "item": "baking soda" },
         { "qty": 1, "unit": "tbsp", "grams": 6, "item": "ground ginger" },
         { "qty": 2, "unit": "tsp", "grams": 5, "item": "ground cinnamon" },
@@ -28,7 +28,7 @@
     {
       "name": "Coating",
       "items": [
-        { "qty": null, "unit": null, "grams": null, "item": "granulated sugar", "note": "for rolling" }
+        { "qty": null, "unit": null, "grams": null, "item": "sugar", "note": "for rolling" }
       ]
     }
   ],
@@ -36,33 +36,35 @@
     {
       "name": "Make the dough",
       "steps": [
-        "Whisk the flour, baking soda, ginger, cinnamon, cloves and salt together in a medium bowl.",
-        "In a separate bowl, beat the butter with both sugars on medium-high speed until pale and fluffy, about 2 minutes, scraping down the bowl as needed.",
-        "Turn the mixer to medium-low and beat in the eggs one at a time, then the molasses, mixing until each is combined.",
-        "Add the dry mixture a little at a time and beat just until no dry flour remains."
+        "In a medium bowl, whisk the flour, baking soda, cinnamon, cloves, ginger and salt together. Set aside.",
+        "In a separate bowl, with a stand mixer or hand mixer, cream the softened butter and both sugars on medium-high speed until light, fluffy and pale yellow, about 2 minutes, scraping down the sides as needed.",
+        "On medium-low speed, mix in the eggs one at a time, then the molasses, beating until each is combined.",
+        "Gradually add the dry mixture and beat until it's evenly incorporated."
       ]
     },
     {
       "name": "Chill",
       "steps": [
-        "Pack the dough into an airtight container and refrigerate for at least 2 hours, until fully cold and firm. Don't skip this: the butter and molasses make the dough spread badly if it's warm."
+        "Move the dough to an airtight container and refrigerate for at least 2 hours, until completely chilled. A thorough chill keeps the cookies from spreading."
       ]
     },
     {
       "name": "Shape and bake",
       "steps": [
-        "Heat the oven to 350°F (175°C) and line a sheet pan with parchment or a silicone mat.",
-        "Roll the cold dough into balls about 1 inch (2.5 cm) across. Roll each ball in a small bowl of sugar until fully coated and set them on the pan with room to spread.",
-        "Bake for 8 to 10 minutes, until the tops just start to crack. They'll crack more as they cool.",
-        "Let the cookies rest on the pan for 4 to 5 minutes, then move them to wire racks to cool completely."
+        "Heat the oven to 350°F (175°C). Line a sheet pan with parchment paper or a silicone baking mat.",
+        "Roll the chilled dough into small balls, about 1 inch (2.5 cm) across. Roll each ball in a small bowl of sugar until completely coated, and place on the prepared pan.",
+        "Bake for about 8 to 10 minutes, until the tops begin to crack slightly. They'll crack more as they cool.",
+        "Let the cookies cool on the pan for 4 to 5 minutes, then move them to wire racks to cool completely."
       ]
     }
   ],
   "notes": [
-    "Yield is an estimate: the source calls this a very large batch but doesn't give a count. Halve the recipe (½× button) for a normal batch.",
-    "The baking soda amount is correct for this big batch, per the source.",
-    "Variations: fold in chopped crystallized ginger for extra bite, or finish with a thin glaze or cream cheese frosting.",
-    "White whole wheat flour can stand in for all-purpose."
+    "This makes a very large batch. Halve it (the ½× button) for a smaller one.",
+    "Flour weights vary from site to site. The source uses 142 g per cup, so 4½ cups = 639 g.",
+    "The baking soda amount is correct: the recipe needs it to rise properly, because the batch is so large.",
+    "White whole wheat flour can work in place of all-purpose.",
+    "Adjust the spice proportions to taste.",
+    "Variations: add chopped crystallized ginger for more ginger flavor and crunch, or top the cookies with a light glaze or cream cheese frosting."
   ],
-  "storage": "Keep in a sealed container at room temperature for up to 4 days, or freeze for up to 3 months."
+  "storage": "Serve warm, or store in a sealed container for up to 4 days. Freeze for up to 3 months."
 }
